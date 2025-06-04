@@ -19,5 +19,5 @@ f4(){
 }
 
 f5(){
-    return 1;
+    return 0
 }
